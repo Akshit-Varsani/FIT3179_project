@@ -1,0 +1,88 @@
+body *{
+	font-family: 'Open Sans', sans-serif;
+}
+
+#mainTitle {
+	background-color: lightblue;
+}
+
+#title2 {
+	background-color: lightblue;
+}
+
+#Luxembourg {
+	color: #e41a1c;
+	font-weight: bolder;
+
+}
+
+#Switzerland {
+	color: #984ea3;
+	font-weight: bolder;
+}
+
+#Norway {
+	color: #ff7f00;
+	font-weight: bolder;
+}
+
+#Togo {
+	color: #a6cee3;
+	font-weight: bolder;
+}
+
+#Uganda {
+	color: #377eb8;
+	font-weight: bolder;
+}
+
+#Chad {
+	color: #a65628;
+	font-weight: bolder;
+}
+
+h1 {
+	font-weight: 900;
+	text-align: center;
+	font-style: italic;
+	font-weight: bolder;
+	font-size: xx-large;
+}
+
+h2 {
+	font-weight: 500;
+	text-align: center;
+	font-weight: bolder;
+	font-size: x-large;
+}
+
+p {
+	text-align: justify;
+}
+
+body{
+	background-color: lightgrey;
+}
+
+.page {
+	width: 1000px;
+	background-color: white;
+	margin: auto;
+	padding: 50px;
+	padding-top: 35px;
+}
+
+.vis-container {
+	width: 100%;
+	align-self: auto;
+	border: 2px solid black;
+}
+
+.pure-g {
+	margin-bottom: 40px;
+}
+
+#choropleth_map {
+	align-self: auto;
+	border: 2px solid black;
+}

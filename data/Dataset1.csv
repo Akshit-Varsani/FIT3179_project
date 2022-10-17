@@ -1,0 +1,653 @@
+Country,Year,GDP,Suicide
+Afghanistan,2000,0,5.7
+Afghanistan,2005,242,6.3
+Afghanistan,2010,543,5.1
+Afghanistan,2015,578,4.8
+Albania,2000,1126.683318,5.5
+Albania,2005,2674,6.7
+Albania,2010,4094,7.8
+Albania,2015,3953,6
+Algeria,2000,1765.022577,4.1
+Algeria,2005,3113,3.8
+Algeria,2010,4481,3.3
+Algeria,2015,4178,3.2
+Angola,2000,0,0
+Angola,2005,0,0
+Angola,2010,0,0
+Angola,2015,0,0
+Argentina,2000,7708.100996,9.5
+Argentina,2005,5110,9
+Argentina,2010,10386,8.7
+Argentina,2015,13789,8.8
+Armenia,2000,622.7421391,3.3
+Armenia,2005,1644,4.4
+Armenia,2010,3218,6
+Armenia,2015,3607,7
+Australia,2000,21679.24784,13.2
+Australia,2005,33999,12.3
+Australia,2010,52022,12.5
+Australia,2015,56748,13.8
+Austria,2000,24564.45829,20
+Austria,2005,38403,17.3
+Austria,2010,46858,16
+Austria,2015,44177,16
+Azerbaijan,2000,655.0974326,2.2
+Azerbaijan,2005,1578,3.2
+Azerbaijan,2010,5843,3.1
+Azerbaijan,2015,5500,2.7
+Bahrain,2000,13636.40824,6.7
+Bahrain,2005,17959,7
+Bahrain,2010,20722,5.2
+Bahrain,2015,22689,5.9
+Bangladesh,2000,418.0689683,6.7
+Bangladesh,2005,499,6.3
+Bangladesh,2010,781,6.4
+Bangladesh,2015,1248,6.1
+Barbados,2000,11496.6024,2.1
+Barbados,2005,14104,3.7
+Barbados,2010,16056,2.1
+Barbados,2015,16066,0.7
+Belarus,2000,1276.288034,43.1
+Belarus,2005,3126,45.1
+Belarus,2010,6181,38.2
+Belarus,2015,5949,26.3
+Belgium,2000,23207.40591,22.7
+Belgium,2005,36967,21.2
+Belgium,2010,44380,21.3
+Belgium,2015,40441,20.1
+Belize,2000,3364.423711,5.5
+Belize,2005,3926,4.9
+Belize,2010,4331,4.9
+Belize,2015,4883,4.8
+Benin,2000,0,0
+Benin,2005,0,0
+Benin,2010,0,0
+Benin,2015,0,0
+Bolivia,2000,0,0
+Bolivia,2005,0,0
+Bolivia,2010,0,0
+Bolivia,2015,0,0
+Bosnia and Herzegovina,2000,1467.776477,10.7
+Bosnia and Herzegovina,2005,2981,9.3
+Bosnia and Herzegovina,2010,4636,8
+Bosnia and Herzegovina,2015,4727,8.9
+Botswana,2000,3522.308678,11.8
+Botswana,2005,5520,12.6
+Botswana,2010,6435,11.1
+Botswana,2015,6800,9.7
+Brazil,2000,3749.75325,4.8
+Brazil,2005,4790,5.5
+Brazil,2010,11286,5.7
+Brazil,2015,8814,6.5
+Brunei,2000,18012.55626,2.8
+Brunei,2005,26105,3.3
+Brunei,2010,35270,3.7
+Brunei,2015,31165,4.5
+Bulgaria,2000,1609.882452,18.5
+Bulgaria,2005,3870,13.4
+Bulgaria,2010,6843,12.5
+Bulgaria,2015,6994,11.4
+Burkina Faso,2000,0,0
+Burkina Faso,2005,0,0
+Burkina Faso,2010,0,0
+Burkina Faso,2015,0,0
+Cambodia,2000,302.5771636,5.6
+Cambodia,2005,474,5.9
+Cambodia,2010,786,5.4
+Cambodia,2015,1163,5.3
+Cameroon,2000,649.9918454,13.3
+Cameroon,2005,1012,11.9
+Cameroon,2010,1285,11.7
+Cameroon,2015,1327,12.3
+Canada,2000,24190.24962,13
+Canada,2005,36266,13.2
+Canada,2010,47450,13
+Canada,2015,43495,12.5
+Central African Rep.,2000,0,0
+Central African Rep.,2005,0,0
+Central African Rep.,2010,0,0
+Central African Rep.,2015,0,0
+Chad,2000,165.7629866,8
+Chad,2005,658,8.5
+Chad,2010,892,8.7
+Chad,2015,776,8.9
+Chile,2000,5074.901624,10.9
+Chile,2005,7599,10.6
+Chile,2010,12808,12.2
+Chile,2015,13574,10.9
+China,2000,959.3724836,13.2
+China,2005,1753,11.7
+China,2010,4550,10.9
+China,2015,8033,9.6
+Colombia,2000,2520.480898,7.6
+Colombia,2005,3404,6.7
+Colombia,2010,6327,7.2
+Colombia,2015,6176,8.3
+Comoros,2000,645.8186908,5.1
+Comoros,2005,1069,6.5
+Comoros,2010,1315,6.6
+Comoros,2015,1271,6.8
+Congo,2000,0,0
+Congo,2005,0,0
+Congo,2010,0,0
+Congo,2015,0,0
+Costa Rica,2000,3772.870012,7.3
+Costa Rica,2005,4655,7.9
+Costa Rica,2010,8142,8.6
+Costa Rica,2015,11299,7.9
+Cote D'ivoire,2000,0,0
+Cote D'ivoire,2005,0,0
+Cote D'ivoire,2010,0,0
+Cote D'ivoire,2015,0,0
+Croatia,2000,4873.053306,21.3
+Croatia,2005,10521,20.2
+Croatia,2010,13937,18.6
+Croatia,2015,11780,17.8
+Cuba,2000,2747.098575,17.4
+Cuba,2005,3787,13
+Cuba,2010,5730,14.4
+Cuba,2015,7694,13.7
+Cyprus,2000,14388.3467,2.2
+Cyprus,2005,24959,2.6
+Cyprus,2010,30818,5.7
+Cyprus,2015,23217,4.9
+Dem. Rep. Congo,2000,0,0
+Dem. Rep. Congo,2005,0,0
+Dem. Rep. Congo,2010,0,0
+Dem. Rep. Congo,2015,0,0
+Denmark,2000,30743.54768,16
+Denmark,2005,48800,16.2
+Denmark,2010,58041,12.7
+Denmark,2015,53255,11.9
+Djibouti,2000,768.1760767,5.8
+Djibouti,2005,905,5.9
+Djibouti,2010,1343,5.2
+Djibouti,2015,1787,6.4
+Dominican Republic,2000,2869.105861,9.1
+Dominican Republic,2005,3970,8.2
+Dominican Republic,2010,5568,8
+Dominican Republic,2015,6692,9.7
+Ecuador,2000,1445.279324,6.1
+Ecuador,2005,3002,8.9
+Ecuador,2010,4634,8.5
+Ecuador,2015,6124,9.6
+El Salvador,2000,2001.538009,13.4
+El Salvador,2005,2429,9.9
+El Salvador,2010,2983,10.8
+El Salvador,2015,3706,14
+Equatorial Guinea,2000,1725.554738,15.5
+Equatorial Guinea,2005,10963,13.7
+Equatorial Guinea,2010,17272,16.7
+Equatorial Guinea,2015,11279,16.5
+Eritrea,2000,308.1337836,11.6
+Eritrea,2005,389,10.4
+Eritrea,2010,668,9
+Eritrea,2015,0,8.1
+Estonia,2000,4070.032827,29.5
+Estonia,2005,10338,22.5
+Estonia,2010,14639,18.3
+Estonia,2015,17412,15.8
+Eswatini,2000,1728.70534,11.6
+Eswatini,2005,3084,12
+Eswatini,2010,4169,11.9
+Eswatini,2015,3641,13.1
+Ethiopia,2000,124.4608003,8
+Ethiopia,2005,162,7.9
+Ethiopia,2010,342,7.3
+Ethiopia,2015,639,7.2
+Fiji,2000,2076.568784,4.3
+Fiji,2005,3660,3.5
+Fiji,2010,3653,4.8
+Fiji,2015,5391,5
+Finland,2000,24253.25042,24.6
+Finland,2005,38969,20.4
+Finland,2010,46202,18.9
+Finland,2015,42495,14.4
+France,2000,22364.02939,22.3
+France,2005,34760,21.1
+France,2010,40638,20.2
+France,2015,36613,18
+Gabon,2000,4125.716664,6.7
+Gabon,2005,6889,6.1
+Gabon,2010,8841,6.9
+Gabon,2015,7382,7.3
+Georgia,2000,749.8961143,6
+Georgia,2005,1643,5
+Georgia,2010,3074,6.9
+Georgia,2015,3756,8.1
+Germany,2000,23718.7467,14.7
+Germany,2005,34697,13.6
+Germany,2010,41786,13.7
+Germany,2015,41395,13.8
+Ghana,2000,258.4709595,4
+Ghana,2005,492,4.3
+Ghana,2010,1298,4.7
+Ghana,2015,1766,5.3
+Greece,2000,12042.95373,3.4
+Greece,2005,22552,3.5
+Greece,2010,26918,3.3
+Greece,2015,18168,4.8
+Greenland,2000,0,0
+Greenland,2005,0,0
+Greenland,2010,0,0
+Greenland,2015,0,0
+Grenada,2000,5057.173965,1.9
+Grenada,2005,6644,2.7
+Grenada,2010,7258,0.9
+Grenada,2015,9097,1.1
+Guatemala,2000,1655.58773,3.2
+Guatemala,2005,2078,3.2
+Guatemala,2010,2826,2.9
+Guatemala,2015,3924,3.1
+Guinea,2000,363.482479,6.3
+Guinea,2005,322,6.8
+Guinea,2010,672,6.6
+Guinea,2015,769,6.4
+Guyana,2000,954.4041525,23.4
+Guyana,2005,1105,24.4
+Guyana,2010,3033,26.8
+Guyana,2015,4166,29.1
+Haiti,2000,467.1475588,8.7
+Haiti,2005,469,9.5
+Haiti,2010,666,10.2
+Haiti,2015,816,11.7
+Honduras,2000,1080.462129,2.3
+Honduras,2005,1297,2.5
+Honduras,2010,1891,2.5
+Honduras,2015,2286,2.8
+Hungary,2000,4633.312923,32.5
+Hungary,2005,11206,26.7
+Hungary,2010,13092,26
+Hungary,2015,12504,20.3
+Iceland,2000,32018.06325,16.2
+Iceland,2005,56659,12.2
+Iceland,2010,43025,13.3
+Iceland,2015,52429,14
+India,2000,443.314204,17.4
+India,2005,715,17.6
+India,2010,1358,16.5
+India,2015,1606,16.5
+Indonesia,2000,780.190201,3.9
+Indonesia,2005,1263,3.8
+Indonesia,2010,3122,3.6
+Indonesia,2015,3332,3.4
+Iran,2000,0,0
+Iran,2005,0,0
+Iran,2010,0,0
+Iran,2015,0,0
+Iraq,2000,0,2.7
+Iraq,2005,1856,2.5
+Iraq,2010,4657,2.8
+Iraq,2015,4990,3.1
+Ireland,2000,26241.36461,12.4
+Ireland,2005,50878,11.9
+Ireland,2010,48715,12
+Ireland,2015,61995,11.5
+Israel,2000,21027.78173,7.5
+Israel,2005,20550,7.6
+Israel,2010,30659,7.3
+Israel,2015,35855,5
+Italy,2000,20051.24215,7.8
+Italy,2005,31959,7
+Italy,2010,35849,7.5
+Italy,2015,30171,8
+Jamaica,2000,3384.694861,2.3
+Jamaica,2005,4089,1.9
+Jamaica,2010,4697,2
+Jamaica,2015,4893,2.1
+Japan,2000,38532.04088,24.7
+Japan,2005,37218,24.9
+Japan,2010,44508,24.4
+Japan,2015,34524,19.4
+Jordan,2000,1651.622443,3.4
+Jordan,2005,2183,3.1
+Jordan,2010,3656,2.8
+Jordan,2015,4097,2.9
+Kazakhstan,2000,1229.000958,34
+Kazakhstan,2005,3771,39.4
+Kazakhstan,2010,9070,32.7
+Kazakhstan,2015,10511,24.9
+Kenya,2000,397.4826588,4.4
+Kenya,2005,512,3.9
+Kenya,2010,952,3.1
+Kenya,2015,1337,3.1
+Kiribati,2000,796.8881748,13.7
+Kiribati,2005,1215,13.9
+Kiribati,2010,1517,14.5
+Kiribati,2015,1543,14.5
+Kuwait,2000,18439.90039,2
+Kuwait,2005,35591,2.3
+Kuwait,2010,38577,1.9
+Kuwait,2015,29870,2.3
+Latvia,2000,3352.731296,34.7
+Latvia,2005,7559,26.7
+Latvia,2010,11326,22.7
+Latvia,2015,13640,21.6
+Lebanon,2000,4491.637259,3
+Lebanon,2005,4574,3.1
+Lebanon,2010,7757,3.2
+Lebanon,2015,7650,3.3
+Lesotho,2000,436.488352,18
+Lesotho,2005,843,18.6
+Lesotho,2010,1183,20.1
+Lesotho,2015,1219,21
+Liberia,2000,306.8328947,5.7
+Liberia,2005,295,6.8
+Liberia,2010,513,6.5
+Liberia,2015,710,6.5
+Libya,2000,7142.774452,5.3
+Libya,2005,8163,5.6
+Libya,2010,12065,5.4
+Libya,2015,4338,4.2
+Lithuania,2000,3297.354701,50.7
+Lithuania,2005,7863,43.9
+Lithuania,2010,11985,37.3
+Lithuania,2015,14292,34.9
+Luxembourg,2000,48735.99549,16.8
+Luxembourg,2005,80290,14.3
+Luxembourg,2010,104965,12.9
+Luxembourg,2015,100428,14.7
+Madagascar,2000,245.9390659,4.7
+Madagascar,2005,275,4.5
+Madagascar,2010,413,4.3
+Madagascar,2015,402,4
+Malawi,2000,156.3857186,6.2
+Malawi,2005,290,4.5
+Malawi,2010,479,3.8
+Malawi,2015,381,3.6
+Malaysia,2000,4043.662051,5.3
+Malaysia,2005,5587,5.4
+Malaysia,2010,9041,5.1
+Malaysia,2015,9799,5.4
+Maldives,2000,2234.579866,4.4
+Maldives,2005,3640,3.3
+Maldives,2010,7077,3.2
+Maldives,2015,9033,2.6
+Mali,2000,269.8711377,5.5
+Mali,2005,489,4.9
+Mali,2010,710,4.8
+Mali,2015,751,4.8
+Malta,2000,11039.05651,6.5
+Malta,2005,15835,5.6
+Malta,2010,21088,8
+Malta,2015,24046,8
+Mauritania,2000,491.8427611,3.4
+Mauritania,2005,722,3.5
+Mauritania,2010,1241,3.9
+Mauritania,2015,1194,4.3
+Mauritius,2000,3929.075493,11.1
+Mauritius,2005,5283,8.8
+Mauritius,2010,8000,8.1
+Mauritius,2015,9260,8.5
+Mexico,2000,7157.8145,3.6
+Mexico,2005,8278,4.3
+Mexico,2010,9271,4.6
+Mexico,2015,9606,5.6
+Mongolia,2000,474.2168965,17.9
+Mongolia,2005,999,17.1
+Mongolia,2010,2643,16.6
+Mongolia,2015,3919,13.1
+Montenegro,2000,1627.072633,10.4
+Montenegro,2005,3675,11.4
+Montenegro,2010,6682,10.4
+Montenegro,2015,6514,10
+Morocco,2000,1334.943051,6.9
+Morocco,2005,2018,5.3
+Morocco,2010,2840,3.7
+Morocco,2015,2875,2.9
+Mozambique,2000,283.2254824,8.8
+Mozambique,2005,377,6.7
+Mozambique,2010,432,5.6
+Mozambique,2015,547,4.9
+Myanmar,2000,190.6062319,7.3
+Myanmar,2005,245,7.7
+Myanmar,2010,979,7.3
+Myanmar,2015,1133,7.6
+Namibia,2000,2136.440243,10.9
+Namibia,2005,3674,10.4
+Namibia,2010,5325,10.4
+Namibia,2015,5033,9
+Nepal,2000,229.4902871,15.4
+Nepal,2005,316,12.5
+Nepal,2010,592,10.5
+Nepal,2015,793,9.1
+Netherlands,2000,26149.41108,9.8
+Netherlands,2005,41979,9.9
+Netherlands,2010,50950,10
+Netherlands,2015,45175,12.5
+New Zealand,2000,13641.10272,12.9
+New Zealand,2005,27751,13.3
+New Zealand,2010,33692,13
+New Zealand,2015,38560,12.1
+Nicaragua,2000,1007.501429,17.2
+Nicaragua,2005,1162,14.4
+Nicaragua,2010,1504,12.5
+Nicaragua,2015,2050,12.2
+Niger,2000,158.7049748,4.6
+Niger,2005,250,4.9
+Niger,2010,347,4.9
+Niger,2015,361,4.7
+Nigeria,2000,567.930736,10.2
+Nigeria,2005,1268,9.6
+Nigeria,2010,2292,10
+Nigeria,2015,2730,9.6
+Norway,2000,38146.71539,13.3
+Norway,2005,66775,12.7
+Norway,2010,87770,12.6
+Norway,2015,74522,12.4
+Oman,2000,8601.25417,4.3
+Oman,2005,12377,3.4
+Oman,2010,19281,3.7
+Oman,2015,16151,4.1
+Pakistan,2000,519.5343268,3.4
+Pakistan,2005,683,3.5
+Pakistan,2010,989,3.1
+Pakistan,2015,1357,2.9
+Panama,2000,4060.324493,6
+Panama,2005,4917,6.3
+Panama,2010,8082,5.1
+Panama,2015,13630,3.9
+Papua New Guinea,2000,602.1869023,7.1
+Papua New Guinea,2005,749,5.8
+Papua New Guinea,2010,1949,5.4
+Papua New Guinea,2015,2679,6
+Paraguay,2000,1663.605252,10.1
+Paraguay,2005,1844,10.1
+Paraguay,2010,4356,9.3
+Paraguay,2015,5407,9.9
+Peru,2000,1955.588006,5.1
+Peru,2005,2729,4.6
+Peru,2010,5082,4.6
+Peru,2015,6228,4.9
+Philippines,2000,1038.90854,2.5
+Philippines,2005,1194,2.6
+Philippines,2010,2124,3.3
+Philippines,2015,2867,3.2
+Poland,2000,4492.739632,16.9
+Poland,2005,8021,17.7
+Poland,2010,12600,18.6
+Poland,2015,12572,15.8
+Portugal,2000,11502.39681,7.5
+Portugal,2005,18785,11.1
+Portugal,2010,22539,13.5
+Portugal,2015,19253,13.8
+Qatar,2000,29976.11704,3.4
+Qatar,2005,51456,3.2
+Qatar,2010,67403,6.1
+Qatar,2015,63039,6.5
+Romania,2000,1659.90764,13.2
+Romania,2005,4618,12.5
+Romania,2010,8210,14
+Romania,2015,8977,11.6
+Russia,2000,1771.59783,52.6
+Russia,2005,5323,51.6
+Russia,2010,10675,40
+Russia,2015,9314,32.1
+Rwanda,2000,228.6377096,15.6
+Rwanda,2005,304,10.9
+Rwanda,2010,576,7.5
+Rwanda,2015,728,6.8
+S. Sudan,2000,0,4.8
+S. Sudan,2005,0,4.6
+S. Sudan,2010,1654,4.1
+S. Sudan,2015,1155,3.7
+Samoa,2000,1542.066736,8.3
+Samoa,2005,2574,6.5
+Samoa,2010,3458,5
+Samoa,2015,4155,4.5
+São Tomé and Príncipe,2000,0,2
+São Tomé and Príncipe,2005,867,1.8
+São Tomé and Príncipe,2010,1095,2
+São Tomé and Príncipe,2015,1596,2.3
+Saudi Arabia,2000,9171.330145,2.8
+Saudi Arabia,2005,13791,3
+Saudi Arabia,2010,19263,3.4
+Saudi Arabia,2015,20628,3.2
+Senegal,2000,604.654066,7.7
+Senegal,2005,994,8.1
+Senegal,2010,1279,6.9
+Senegal,2015,1219,6.2
+Serbia,2000,870.1363145,21
+Serbia,2005,3720,18.8
+Serbia,2010,5735,15.9
+Serbia,2015,5585,15
+Seychelles,2000,7578.851053,8.7
+Seychelles,2005,11093,9.1
+Seychelles,2010,10805,9.4
+Seychelles,2015,14745,9.4
+Sierra Leone,2000,138.6986922,11.1
+Sierra Leone,2005,292,10.4
+Sierra Leone,2010,402,9.2
+Sierra Leone,2015,588,9.3
+Singapore,2000,23852.32703,12.4
+Singapore,2005,29961,11.6
+Singapore,2010,47237,10
+Singapore,2015,55647,9
+Slovenia,2000,10227.73677,32.4
+Slovenia,2005,18169,27.1
+Slovenia,2010,23437,20.7
+Slovenia,2015,20888,21
+Solomon Islands,2000,1054.388246,11.2
+Solomon Islands,2005,881,7.6
+Solomon Islands,2010,1290,5.8
+Solomon Islands,2015,1914,4.9
+Somalia,2000,0,4.7
+Somalia,2005,0,4.8
+Somalia,2010,0,4.3
+Somalia,2015,293,4.7
+South Africa,2000,3032.427138,11.6
+South Africa,2005,5384,11.8
+South Africa,2010,7329,12.2
+South Africa,2015,5731,11.8
+Spain,2000,14676.70609,8.6
+Spain,2005,26511,8.1
+Spain,2010,30737,7
+Spain,2015,25817,8.1
+Sri Lanka,2000,869.6965166,28.8
+Sri Lanka,2005,1249,23.1
+Sri Lanka,2010,2800,19.1
+Sri Lanka,2015,3844,14.8
+Sudan,2000,366.1728076,7.9
+Sudan,2005,689,8.4
+Sudan,2010,1490,8
+Sudan,2015,2487,8
+Suriname,2000,2012.260287,23.5
+Suriname,2005,3591,26.5
+Suriname,2010,8256,27
+Suriname,2015,8562,23.8
+Sweden,2000,29323.20776,15.6
+Sweden,2005,43135,16.4
+Sweden,2010,52133,15.3
+Sweden,2015,50833,15.7
+Switzerland,2000,37868.32306,21.8
+Switzerland,2005,54953,20.8
+Switzerland,2010,74606,16.2
+Switzerland,2015,82082,17.1
+Syria,2000,1177.629268,1.3
+Syria,2005,1572,1.6
+Syria,2010,0,1.9
+Syria,2015,0,1.9
+Tajikistan,2000,138.4288795,3
+Tajikistan,2005,341,2.9
+Tajikistan,2010,750,2.5
+Tajikistan,2015,929,2.5
+Tanzania,2000,0,0
+Tanzania,2005,0,0
+Tanzania,2010,0,0
+Tanzania,2015,0,0
+Thailand,2000,2007.736363,16.2
+Thailand,2005,2894,12.7
+Thailand,2010,5076,14.3
+Thailand,2015,5840,14.6
+Timor-Leste,2000,497.1314157,9.3
+Timor-Leste,2005,1823,6.2
+Timor-Leste,2010,3657,5.3
+Timor-Leste,2015,2585,4.6
+Togo,2000,302.2063943,9.6
+Togo,2005,406,9.9
+Togo,2010,534,9.5
+Togo,2015,571,9.4
+Tonga,2000,2065.502661,3.6
+Tonga,2005,2598,3.4
+Tonga,2010,3553,3.6
+Tonga,2015,4321,3.5
+Trinidad and Tobago,2000,6435.164683,14.9
+Trinidad and Tobago,2005,12327,12.3
+Trinidad and Tobago,2010,16683,14.5
+Trinidad and Tobago,2015,18332,13.6
+Tunisia,2000,2211.826817,3.5
+Tunisia,2005,3193,3.6
+Tunisia,2010,4142,3.6
+Tunisia,2015,3860,3.4
+Turkey,2000,4316.548908,7.2
+Turkey,2005,7384,7.6
+Turkey,2010,10672,8.4
+Turkey,2015,10949,7.3
+Turkmenistan,2000,643.174726,9.1
+Turkmenistan,2005,1704,11.7
+Turkmenistan,2010,4439,7.6
+Turkmenistan,2015,6433,7.2
+Uganda,2000,261.8689977,11.1
+Uganda,2005,326,10.5
+Uganda,2010,622,10.5
+Uganda,2015,709,9.9
+Ukraine,2000,635.7089635,36.9
+Ukraine,2005,1827,34.5
+Ukraine,2010,2965,27.1
+Ukraine,2015,2125,23.1
+United Arab Emirates,2000,33291.41937,3.2
+United Arab Emirates,2005,39365,3.1
+United Arab Emirates,2010,33893,3
+United Arab Emirates,2015,38663,2.8
+United Kingdom,2000,27987.75116,9.1
+United Kingdom,2005,41804,8.2
+United Kingdom,2010,39080,7.8
+United Kingdom,2015,44472,8.7
+United States of America,2000,36334.90878,11.3
+United States of America,2005,44115,11.9
+United States of America,2010,48467,13.2
+United States of America,2015,56803,15
+Uruguay,2000,6875.021328,17.4
+Uruguay,2005,5227,15.3
+Uruguay,2010,11992,16.6
+Uruguay,2015,15614,19.4
+Uzbekistan,2000,558.2268024,7.6
+Uzbekistan,2005,547,5.8
+Uzbekistan,2010,1377,6
+Uzbekistan,2015,2615,7.4
+Vanuatu,2000,1470.572265,7.3
+Vanuatu,2005,1887,5.7
+Vanuatu,2010,2967,5.1
+Vanuatu,2015,2722,4.5
+Venezuela,2000,0,0
+Venezuela,2005,0,0
+Venezuela,2010,0,0
+Venezuela,2015,0,0
+Zambia,2000,345.6895544,8.1
+Zambia,2005,703,6.5
+Zambia,2010,1489,6.3
+Zambia,2015,1332,6.1
+Zimbabwe,2000,563.0577411,12.9
+Zimbabwe,2005,477,13.9
+Zimbabwe,2010,948,11.9
+Zimbabwe,2015,1445,10.6

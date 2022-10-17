@@ -1,0 +1,172 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "",
+  "data": {"url": "data/gdp_top6.csv"},
+  "hconcat": [
+    {
+      "width": 380,
+      "height": 550,
+      "title": "GDP per capita",
+      "encoding": {
+        "x": {"field": "Date", "type": "temporal", "axis": {"title": "Year", "tickCount":3}}
+      },
+      "layer": [
+        {
+          "encoding": {
+            "color":{
+              "field":"Country", 
+              "type":"nominal",
+              "scale": {
+                "domain": [
+                  "Luxembourg",
+                  "Switzerland",
+                  "Norway",
+                  "Togo",
+                  "Uganda",
+                  "Chad"
+                ],
+                "range": [
+                  "#e41a1c",
+                  "#984ea3",
+                  "#ff7f00",
+                  "#a6cee3",
+                  "#377eb8",
+                  "#a65628"
+                ]
+              }
+            },
+            "y":{"field":"gdp", "type":"quantitative","scale":{"type": "log"}, "axis": {"title": "GDP per capita"}}
+          },
+          "layer": [
+            {"mark":"line"},
+            {
+              "transform": [{"filter": {"param": "hover", "empty": false}}],
+              "mark":"point"
+            }
+          ]
+        },
+        {
+          "transform": [
+            {
+              "pivot": "Country",
+              "value": "gdp",
+              "groupby": ["Date"]
+            }
+          ],
+          "mark":"rule",
+          "encoding": {
+            "opacity":{
+              "condition":{"value": 0.3, "param": "hover", "empty": false},
+              "value": 0
+            },
+            "tooltip": [
+              {"field":"Date", "type": "temporal"},
+              {"field": "Luxembourg", "type": "quantitative"},
+              {"field": "Switzerland", "type": "quantitative"},
+              {"field": "Norway", "type": "quantitative"},
+              {"field": "Togo", "type": "quantitative"},
+              {"field": "Uganda", "type": "quantitative"},
+              {"field": "Chad", "type": "quantitative"}
+            ]
+          },
+          "params": [
+            {
+              "name": "hover",
+              "select": {
+                "type": "point",
+                "fields": ["Date"],
+                "nearest": true,
+                "on": "mouseover",
+                "clear": "mouseout"
+              }
+            }
+          ]
+        }
+      ]
+    },
+
+    
+    {
+      "width": 380,
+      "height": 550,
+      "title": "Suicide rates",
+      "encoding": {
+        "x": {"field": "Date", "type": "temporal", "axis": {"title": "Year", "tickCount":3}}
+      },
+      "layer": [
+        {
+          "encoding": {
+            "color":{
+              "field":"Country", 
+              "type":"nominal",
+              "scale": {
+                "domain": [
+                  "Luxembourg",
+                  "Switzerland",
+                  "Norway",
+                  "Togo",
+                  "Uganda",
+                  "Chad"
+                ],
+                "range": [
+                  "#e41a1c",
+                  "#984ea3",
+                  "#ff7f00",
+                  "#a6cee3",
+                  "#377eb8",
+                  "#a65628"
+                ]
+              }
+            },
+            "y":{"field":"suicide", "type":"quantitative", "axis": {"title": "Suicide rate per 100,000 people"}}
+          },
+          "layer": [
+            {"mark":"line"},
+            {
+              "transform": [{"filter": {"param": "hover", "empty": false}}],
+              "mark":"point"
+            }
+          ]
+        },
+        {
+          "transform": [
+            {
+              "pivot": "Country",
+              "value": "suicide",
+              "groupby": ["Date"]
+            }
+          ],
+          "mark":"rule",
+          "encoding": {
+            "opacity":{
+              "condition":{"value": 0.3, "param": "hover", "empty": false},
+              "value": 0
+            },
+            "tooltip": [
+              {"field":"Date", "type": "temporal"},
+              {"field": "Luxembourg", "type": "quantitative"},
+              {"field": "Switzerland", "type": "quantitative"},
+              {"field": "Norway", "type": "quantitative"},
+              {"field": "Togo", "type": "quantitative"},
+              {"field": "Uganda", "type": "quantitative"},
+              {"field": "Chad", "type": "quantitative"}
+            ]
+          },
+          "params": [
+            {
+              "name": "hover",
+              "select": {
+                "type": "point",
+                "fields": ["Date"],
+                "nearest": true,
+                "on": "mouseover",
+                "clear": "mouseout"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  
+}
