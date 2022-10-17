@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
+  <script src="https://cdn.jsdelivr.net/npm/vega@5.20.2"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@5.1.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6.17.0"></script>
+
+  <!-- Import pure.css -->
+  <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css" integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Google font -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+  
+  <!-- CSS file -->
+  <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
+
+</head>
+<body>
+
+  <div class="page">
+
+    <div class="pure-g">
+      <div class="pure-u-1-1" id="mainTitle">
+        <h1>GDP per capita and Suicide rate</h1>
+      </div>
+    </div>
+
+    <div class="pure-g">
+      <div class="pure-u-1-1">
+        <p>In the recent years, there has been an increasing number of suicides among the youths. One main reason 
+          highlighted is poor standards of living or lack of money. The below visualisations tries to explore the concern. 
+          In the analysis, GDP per capita can be taken as a rough estimate for the standard of living and a normalised value 
+          for suicide rates among 100,000 people can be taken.</p>
+      </div>
+    </div>
+
+    <div class="pure-g">
+      <div class="pure-u-1-1">
+        <div id="choropleth_map" class="vis-container"></div>
+      </div>
+    </div>
+
+    <div class="pure-g">
+      <div class="pure-u-1-1">
+        <h2><div id="title2">Top and Bottom 3 GDP per capita countries and their Suicide rates</div></h2>
+        <p>The below graph aim to compare the GDP per capita of the top and bottom 3 countries namely <span id="Luxembourg">Luxembourg</span>, <span id="Switzerland">Switzerland</span>, 
+          <span id="Norway">Norway</span>, <span id="Togo">Togo</span>, <span id="Uganda">Uganda</span> and <span id="Chad">Chad</span> and understand their relationship with suicide rates. 
+          The initial prediction is that countries with higher GDP per capita will be having lower suicide rates because a higher GDP per capita means higher average income per household. 
+          Low income is usually one of the major reasons of suicide because lack of money in the long term leader to poverty, hunger and poor standards of living</p>
+      </div>
+    </div>
+
+    <div class="pure-g">
+      <div class="pure-u-1-1">
+        <div id="top6" class="vis-container"></div>
+      </div>
+    </div>
+
+    <div class="pure-g">
+      <div class="pure-u-1-1">
+        <p>The finding from the graph above are rather controversial where it has been discovered that the top 3 countires based on GDP per capita have higher suicide rates as compared to 
+          the bottom 3 countires based on GDP per Capita. The results show that <span id="Switzerland"> Switzerland has the highest suicide rate of 17.1 and 2nd highest GDP of US($) 82,082 per capita in 2015</span> 
+          However, on the other hand <span id="Chad">Chad has the lowest suicide rate of 8.9 and 3rd lowest GDP per capita of US($) 776 in 2015.</span> From the analysis of this data it is evident that increase 
+          in GDP per capita is directly proportional to suicide rates. One reason for this may be social media, with high GDP per capita countries more and more youth have access to social media which results
+          in open access to such public forums which if not used appropriately is a source of cyber abuse. 
+        </p>
+      </div>
+    </div>
+
+  </div>
+  
+
+
+<script type="text/javascript">
+
+  var map1 = "js/choropleth_map.vg.json";
+  var line1 = "js/line_chart_top6.vg.json";
+
+  vegaEmbed('#choropleth_map', map1).then(function(result) {}).catch(console.error);
+
+  vegaEmbed('#top6', line1).then(function(result) {}).catch(console.error);
+
+</script>
+
+</body>
+</html>
